@@ -8,7 +8,7 @@ on:
     types: [synchronize, labeled, unlabeled]
 
 env:
-  REGISTRY_IMAGE: arvinx/lobe-chat
+  REGISTRY_IMAGE: lobehub/lobe-chat
   PR_TAG_PREFIX: pr-
 
 jobs:
